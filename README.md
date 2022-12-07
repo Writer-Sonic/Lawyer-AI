@@ -1,5 +1,4 @@
 # Lawyer-AI
-Lawyer-AI
 
 Privacy Policy
 
